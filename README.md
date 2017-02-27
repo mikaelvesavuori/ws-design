@@ -3,3 +3,16 @@ Vi går mot en tid av komponenttänkande snarare än sidtänkande. Denna förän
 
 ## Mål
 Kunna skapa visuella komponenter, utföra dessa i CSS enligt en team-standard samt förstå prestandan bakom
+
+## Fördjupning
+- [https://www.lightningdesignsystem.com/](https://www.lightningdesignsystem.com/)
+- [https://blog.hichroma.com/the-crucial-tool-for-modern-frontend-engineers](https://blog.hichroma.com/the-crucial-tool-for-modern-frontend-engineers)
+- [https://trulia.github.io/hologram/](https://trulia.github.io/hologram/)
+- [http://airbnb.design/building-a-visual-language/](http://airbnb.design/building-a-visual-language/)
+- [https://css-tricks.com/design-systems-building-future/](https://css-tricks.com/design-systems-building-future/)
+- [http://designguidelines.co/](http://designguidelines.co/)
+- [https://nordnet.design/a-closer-look-at-our-atomic-workflow-in-action-by-the-nordnet-design-studio](https://nordnet.design/a-closer-look-at-our-atomic-workflow-in-action-by-the-nordnet-design-studio)
+- [https://medium.freecodecamp.com/how-to-construct-a-design-system](https://medium.freecodecamp.com/how-to-construct-a-design-system)
+- [https://github.com/davidhund/styleguide-generators](https://github.com/davidhund/styleguide-generators)
+- [http://postcss.parts](http://postcss.parts)
+- [https://webpack.js.org/concepts/](https://webpack.js.org/concepts/)
