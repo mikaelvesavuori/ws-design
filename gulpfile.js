@@ -21,7 +21,7 @@ gulp.task("browsersync", function() {
 	browsersync(config.browsersync);
 
 	gulp.watch("*.{sass,scss}", ["sass"]);
-	gulp.watch("*.{css,html}", browsersync.reload);
+	gulp.watch("*.{css,html,js}", browsersync.reload);
 });
 
 

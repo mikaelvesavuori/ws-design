@@ -16,3 +16,6 @@ Kunna skapa visuella komponenter, utföra dessa i CSS enligt en team-standard sa
 - [https://github.com/davidhund/styleguide-generators](https://github.com/davidhund/styleguide-generators)
 - [http://postcss.parts](http://postcss.parts)
 - [https://webpack.js.org/concepts/](https://webpack.js.org/concepts/)
+- [https://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/](https://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/)
+- [http://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528](http://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528)
+- [https://medium.com/@jordankoschei/how-i-shrank-my-css-by-84kb-by-refactoring-with-itcss-2e8dafee123a#.ab8emiofa](https://medium.com/@jordankoschei/how-i-shrank-my-css-by-84kb-by-refactoring-with-itcss-2e8dafee123a#.ab8emiofa)
